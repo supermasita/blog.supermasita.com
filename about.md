@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Supermasita (just Masita in IRL).
+Hi! I'm _Supermasita_ (just _Masita_ in IRL).
 
 I was trained as a Recording Engineer but I work as a Systems Engineer.
 
 I ve create this blog to collect simple things I want to remember.
 
-If you want to contact me, you can find me on Freenode. I usually frequent these channels:
+If you want to contact me, you can find me on Freenode in one of these channels:
 
 * #pyar
 * #kaltura
