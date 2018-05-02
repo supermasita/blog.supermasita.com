@@ -6,7 +6,7 @@ categories: linux bash beginner
 ---
 What is that line log saying? Whats that Unix timestamp I see?
 
-```
+{% highlight bash session %}
 $ date -d "@1523616424"
 Fri Apr 13 06:47:04 EDT 2018
-```
+{% endhighlight %}
