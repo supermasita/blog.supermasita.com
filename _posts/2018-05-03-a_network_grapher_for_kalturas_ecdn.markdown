@@ -11,7 +11,7 @@ I created this simple page using [vis.js](http://visjs.org/) and Kaltura's libra
 ![example](https://i.imgur.com/TtiT69r.png)
 
 Wanna check it out? 
-* Demo: https://dev.supermasita.com/kaltura/keg/
-* Github: https://github.com/supermasita/keg
+* [Demo](https://dev.supermasita.com/kaltura/keg/)
+* [Project](https://github.com/supermasita/keg)
 
-Find more information about Kaltura's eCDN here: https://corp.kaltura.com/products/features/ecdn
+Find more information about Kaltura's eCDN [here](https://corp.kaltura.com/products/features/ecdn).
