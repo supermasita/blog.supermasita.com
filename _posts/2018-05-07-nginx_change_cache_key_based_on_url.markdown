@@ -28,4 +28,4 @@ To achieve this, you need to change the default "[proxy_cache_key](http://nginx.
 
 {% endhighlight %}
 
-This can be improved, but gave me the cornerstone of for my caching needs.
+This can be improved, but gave me the cornerstone for my caching needs.
