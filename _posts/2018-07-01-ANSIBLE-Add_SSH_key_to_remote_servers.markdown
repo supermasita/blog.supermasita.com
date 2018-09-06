@@ -2,7 +2,7 @@
 layout: post
 title:  "ANSIBLE - Add SSH key to remote servers"
 date:   2018-07-01 07:04:16 -0300
-categories: ansible rhel centos ssh key
+tags: ansible ssh
 ---
 Please, don't use passwords...
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "JW Player : Poor man's realtime analytics"
 date:   2013-03-18 07:04:16 -0300
-categories: google live streaming analytics realtime javascript jwplayer
+tags: google live streaming analytics realtime javascript jwplayer
 ---
 
 JW has an API that allows you to have many actions in response to the player events. Google analytics also provides a great API, is probably the best and least expensive way of tracking these events.

@@ -2,7 +2,7 @@
 layout: post
 title:  "ANSIBLE - Update NGINX configuration"
 date:   2018-07-10 07:04:16 -0300
-categories: nginx ansible configuration
+tags: nginx ansible 
 ---
 Update the configuration and restart only if needed and valid.
 

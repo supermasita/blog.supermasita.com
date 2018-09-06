@@ -2,7 +2,7 @@
 layout: post
 title:  "Show IP at login"
 date:   2018-05-01 07:04:16 -0300
-categories: linux debian8 ubuntu centos7 beginner
+tags: linux 
 ---
 Want to see the IP of the server at login prompt?
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "FFMPEG - Concatenate videos"
 date:   2018-06-10 07:04:16 -0300
-categories: video ffmpeg mp4 stitch concatenate concat
+tags: video ffmpeg 
 ---
 Ups... I shouldn't have press the record button so many times...
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Varnish : Block HLS for non mobile devices"
 date:   2014-05-01 07:04:16 -0300
-categories: varnish cache proxy wowza streaming hls mobile
+tags: varnish cache proxy wowza streaming 
 ---
 
 A tale of hotlinking and no money to develop tokenization.

@@ -2,7 +2,7 @@
 layout: post
 title:  "ANSIBLE - Use server facts in playbooks"
 date:   2018-05-30 07:04:16 -0300
-categories: ansible facts playbooks automation
+tags: ansible 
 ---
 If only I could make my playbook assign half the server's RAM...
 

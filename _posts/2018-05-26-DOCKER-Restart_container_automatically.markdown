@@ -2,7 +2,7 @@
 layout: post
 title:  "DOCKER - Restart container automatically"
 date:   2018-05-26 07:04:16 -0300
-categories: docker containers
+tags: docker 
 ---
 Checkmate! The server has rebooted and all the containers are DOWN.
 

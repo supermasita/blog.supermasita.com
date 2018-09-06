@@ -2,7 +2,7 @@
 layout: post
 title:  "ANSIBLE - Install EPEL using RPM"
 date:   2018-06-20 07:04:16 -0300
-categories: rhel centos epel ansible rpm
+tags: epel ansible rpm
 ---
 Install from RPM - Ansible can do it!
 
