@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm _Supermasita_. 
+Hi! I'm _Supermasita_. This blog was created to collect simple things that are worth remembering, mainly regarding computers and audio.
 
-I was trained as a recording engineer but I work as a system engineer. This blog was created to collect simple things I want to remember, mainly regarding computers or audio.
-
-Current computer projects
+Recent 'computer' projects
 ===
 * [geoip.supermasita.com](https://geoip.supermasita.com): A geoip service based on Tornado and Maxmind DB
 * [Kaltura eCDN Grapher](https://dev.supermasita.com/kaltura/keg): A network grapher for Kaltura's eCDN KES nodes
@@ -19,11 +17,6 @@ Music projects
 ===
 * [ALIAZ](http://aliaz.com.ar): _My hard rock band_
 * [Soundcloud](https://soundcloud.com/supermasita): _More music_
-
-Social networks
-===
-* [Github](https://github.com/supermasita)
-* [Docker Hub](https://hub.docker.com/u/supermasita/)
 
 Credits
 ===
