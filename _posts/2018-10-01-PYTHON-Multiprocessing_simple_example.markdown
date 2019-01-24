@@ -80,5 +80,5 @@ sys    0m0.034s
 {% endhighlight %}
 
 ### Recommended reading
-* RTMF: <https://docs.python.org/3.5/library/multiprocessing.html#module-multiprocessing>
+* RTFM: <https://docs.python.org/3.5/library/multiprocessing.html#module-multiprocessing>
 * Comparison of multiprocessing and threading: <https://www.quantstart.com/articles/Parallelising-Python-with-Threading-and-Multiprocessing>
