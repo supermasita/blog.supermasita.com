@@ -153,13 +153,13 @@ blockquote {
  */
 pre,
 code {
-  //@include relative-font-size(0.9375);
-  @include relative-font-size(0.8);
+  @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
-  border-radius: 3px;
+  //border-radius: 3px;
   //background-color: #eef;
-  background-color: #111;
-  color: #FFC000;
+  background-color: #000;
+  //color: #FFC000;
+  color: #FFF;
 }
 
 code {

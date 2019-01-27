@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JW Player : Poor man's realtime analytics"
+title:  "JW Player - Poor man's realtime analytics"
 date:   2013-03-18 07:04:16 -0300
 tags: google live streaming analytics realtime javascript jwplayer
 ---

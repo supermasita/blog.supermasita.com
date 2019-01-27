@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: blog.supermasita.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple things worth remembering
+  Ignoring enemies zones of control since MCMXCVI 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.supermasita.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: supermasita
@@ -29,7 +29,7 @@ plugins:
   - jekyll-sitemap
 google_analytics: "UA-111922217-2" 
 disqus:
-  shortname: blog-supermasita
+ shortname: blog-supermasita
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
