@@ -8,7 +8,7 @@ permalink: /tags/
 {% for tag in tags %}
 <ul>
  <li>
-  <a href="/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a>
+  <a href="/tag/{{ tag | first | slugify }}">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a>
  </li>
 </ul>
 {% endfor %}
