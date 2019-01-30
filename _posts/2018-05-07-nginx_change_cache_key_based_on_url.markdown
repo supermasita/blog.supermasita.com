@@ -2,7 +2,7 @@
 layout: post
 title:  "NGINX - Change cache key based on URL"
 date:   2018-05-07 07:04:16 -0300
-tags: nginx cache proxy
+tags: nginx cache proxy computers
 ---
 I needed to have cache on "/" based on the user's IP, but based on the full URL when parameters were passed. 
 

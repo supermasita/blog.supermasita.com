@@ -2,7 +2,7 @@
 layout: post
 title:  "Show IP at login"
 date:   2018-05-01 07:04:16 -0300
-tags: linux 
+tags: linux  computers
 ---
 Want to see the IP of the server at login prompt?
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "SPHINX - Query from command line"
 date:   2018-05-09 07:04:16 -0300
-tags: sphinx sql
+tags: sphinx sql computers
 ---
 If you know your schema, you can just query it MySQL's client.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "A network grapher for Kaltura's eCDN"
 date:   2018-05-03 07:04:16 -0300
-tags: javascript kaltura vis.js project
+tags: javascript kaltura vis.js project computers
 ---
 Want to see how your enterprise CDN looks like?
 

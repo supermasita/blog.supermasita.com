@@ -2,7 +2,7 @@
 layout: post
 title:  "ANSIBLE - Add SSH key to remote servers"
 date:   2018-07-01 07:04:16 -0300
-tags: ansible ssh
+tags: ansible ssh computers
 ---
 Please, don't use passwords...
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "GIT - Fix gnome-ssh-askpass error"
 date:   2018-04-25 07:04:16 -0300
-tags: linux bash git
+tags: linux bash git computers
 ---
 
 Ups! "(gnome-ssh-askpass:14185): Gtk-WARNING **: cannot open display"

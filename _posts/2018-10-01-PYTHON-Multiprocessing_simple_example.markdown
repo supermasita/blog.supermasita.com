@@ -2,7 +2,7 @@
 layout: post
 title:  "PYTHON - Multiprocessing simple example"
 date:   2018-10-01 07:04:16 -0300
-tags: python multiprocessing
+tags: python multiprocessing computers
 ---
 Time to get those other lazy cores to work.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "JW Player - Avoid dropped frames transition"
 date:   2013-03-20 07:04:16 -0300
-tags: live vod streaming javascript jwplayer flash rtmp
+tags: live vod streaming javascript jwplayer flash rtmp computers
 ---
 
 **JW Player 5** uses a method to deliver the best video quality for your computer (or device) that may sometimes be counterproductive.

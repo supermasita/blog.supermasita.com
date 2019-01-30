@@ -2,7 +2,7 @@
 layout: post
 title:  "FIREFOX - Enable search from address bar"
 date:   2018-11-01 07:04:16 -0300
-tags: firefox 
+tags: firefox  computers
 ---
 Yeah, I know, its enabled by default. But sometimes some organizations block it.
 

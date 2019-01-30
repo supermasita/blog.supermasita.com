@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple script to check a URL"
 date:   2018-04-27 08:04:16 -0300
-tags: bash ansible linux 
+tags: bash ansible linux  computers
 ---
 
 Some of your servers have issues contacting a URL from time to time? We can add a cronjob with a BASH script to keep track of it.

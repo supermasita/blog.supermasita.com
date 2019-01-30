@@ -2,7 +2,7 @@
 layout: post
 title:  "CISCO - Reboot CIMC from terminal"
 date:   2018-04-25 08:04:16 -0300
-tags: cisco cimc ssh
+tags: cisco cimc ssh computers
 ---
 
 You can't login to the web interface of the CIMC? This might solve your issue.

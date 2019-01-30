@@ -2,7 +2,7 @@
 layout: post
 title:  "PHP - Easy way to log to a file"
 date:   2018-05-08 07:04:16 -0300
-tags: php debug
+tags: php debug computers
 ---
 Not fancy, but it works for me every time.
 

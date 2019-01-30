@@ -2,7 +2,7 @@
 layout: post
 title:  "HAPROXY - Log to file"
 date:   2018-05-10 07:04:16 -0300
-tags: haproxy rsyslog
+tags: haproxy rsyslog computers
 ---
 The default HAPROXY install will will not log to a file...
 

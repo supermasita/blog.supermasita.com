@@ -2,7 +2,7 @@
 layout: post
 title:  "BASH - Avoid command alias"
 date:   2018-08-01 07:04:16 -0300
-tags: linux bash 
+tags: linux bash  computers
 ---
 Why does "ls" want to colour all my files!?
 

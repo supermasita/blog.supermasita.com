@@ -9,9 +9,9 @@ Hi! I'm _Supermasita_. This blog was created to collect simple things that are w
 Recent 'computer' projects
 ===
 * [geoip.supermasita.com](https://geoip.supermasita.com): A geoip service based on Tornado and Maxmind DB
+* [wrapmediainfo](https://github.com/supermasita/wrapmediainfo): Simple Mediainfo wrapper (Python)
 * [Kaltura eCDN Grapher](https://dev.supermasita.com/kaltura/keg): A network grapher for Kaltura's eCDN KES nodes
 * [kStress](https://github.com/supermasita/kstress): An implementation of Locust to stress Kaltura's eCDN
-* [wrapmediainfo](https://github.com/supermasita/wrapmediainfo): Simple Mediainfo wrapper (Python)
 
 Music projects
 ===

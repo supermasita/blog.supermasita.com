@@ -2,7 +2,7 @@
 layout: post
 title:  "VARNISH - Set different TTL based on date in URL"
 date:   2014-02-16 07:04:16 -0300
-tags: varnish cache proxy 
+tags: varnish cache proxy  computers
 ---
 
 Your site has an "archive" where you see all of today's post and all previous ones, with an URL like "http://example.com/archive/2014/01/31" - its dynamic and it performs badly...
