@@ -30,7 +30,7 @@ $ curl https://www.google-analytics.com/collect \
 * "-o /dev/null", I am outputing the result to /dev/null
 
 ### GA screenshot
-![GA screenshot](https://blog.supermastia.com/assets/posts_pics/2018-12-01-GOOGLE_ANALYTICS-Track_events_using_cURL.pic01.png)
+![GA screenshot](https://blog.supermasita.com/assets/posts_pics/2018-12-01-GOOGLE_ANALYTICS-Track_events_using_cURL.pic01.png)
 
 
 ### References
