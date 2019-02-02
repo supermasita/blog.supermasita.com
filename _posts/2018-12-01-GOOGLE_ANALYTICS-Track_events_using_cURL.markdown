@@ -4,7 +4,7 @@ title:  "GOOGLE ANALYTICS - Track events using cURL"
 date:   2018-12-01 07:04:16 -0300
 tags: google analytics curl computers 
 ---
-You don't need a Javascript or a library. Track anything from anywhere: exceptions, metrics, user behaviour - anything.
+You don't need a Javascript or a specific library. Track anything from anywhere.
 
 This example uses [cURL](https://curl.haxx.se/) from the terminal, but you can use [Requests](http://docs.python-requests.org/en/master/) in a Python script or anything else that can do a HTTP request. 
 
