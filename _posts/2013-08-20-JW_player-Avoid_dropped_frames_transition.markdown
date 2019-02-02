@@ -10,7 +10,7 @@ tags: live vod streaming javascript jwplayer flash rtmp computers
 When delivering VOD or LIVE over RTMP, the player uses three variables in order to switch between the different configured streams:
 * Player width
 * Bandwidth
-* Dropped frames (due to CPU spikes)
+* Dropped frames (due to CPU usage spikes)
 
 Let's assume we have a LIVE broadcast with three differents qualities (streams):
 * HI (960px, 800Kbps)
@@ -69,33 +69,32 @@ As there is no easy way to modify the treshold, we will need to modify the sourc
 
 In the file "src/com/longtailvideo/jwplayer/media/RTMPMediaProvider.as", around line 214, we should find:
 
-{% highlight bash session %}
+```
     try {
     var bwd:Number = Math.round(_stream.info.maxBytesPerSecond * 8 / 1024);
     var drf:Number = _stream.info.droppedFrames;
     var stt:String = state;
-{% endhighlight %}
+```
 
 Replace this ...
-{% highlight bash session %}
+```
     var drf:Number = _stream.info.droppedFrames;
-{% endhighlight %}
+```
    
 ... with this:
-{% highlight bash session %}
+```
     var drf:Number = 0;
-{% endhighlight %}
+```
 
 ### Compiling 
 
 From the root folder of the source code:
 
-{% highlight bash session %}
+```
 $ ant -buildfile build\build.xml
-{% endhighlight %}
+```
 
 If the compiling is succesful you should have a directory named "bin-release" with the file in it "player.swf".
-
 
 
 

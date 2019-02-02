@@ -14,30 +14,30 @@ The GA code
 
 Get an GA account and its code (you can skip this if you already are using it):
 
-{% highlight html %}
-	<script type="text/javascript">
+``` html
+<script type="text/javascript">
 
-	  var _gaq = _gaq || [];
-	  // Set your UA number	
-	  _gaq.push(['_setAccount', 'UA-******-*']);
-	  // Disable the default pageview tracking - OPTIONAL
-	  //_gaq.push(['_trackPageview']);
+  var _gaq = _gaq || [];
+  // Set your UA number	
+  _gaq.push(['_setAccount', 'UA-******-*']);
+  // Disable the default pageview tracking - OPTIONAL
+  //_gaq.push(['_trackPageview']);
 
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+  (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-	</script>
-{% endhighlight %}
+</script>
+```
 
 Using the JW API and pushing to GA
 ----------------------------------
 
 This is our code, where we set an interval of 60000 miliseconds for a loop that checks if JW Player is in "PLAYING" state. If so, a event and a pageview are pushed to GA (you can customize this in any way you like):
 
-{% highlight html %}
+``` html
 	<script type="text/javascript">
 		setInterval(
 			function(){
@@ -49,8 +49,7 @@ This is our code, where we set an interval of 60000 miliseconds for a loop that 
 		,60000);
 
 	</script>
-{% endhighlight %}
-
+```
 
 Using GA Realtime
 -----------------
@@ -66,6 +65,4 @@ Reference
 
 * <http://www.longtailvideo.com/support/jw-player/28851/javascript-api-reference/>
 * <https://developers.google.com/analytics/devguides/collection/analyticsjs/>
-
- 
 
