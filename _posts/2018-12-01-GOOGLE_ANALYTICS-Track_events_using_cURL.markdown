@@ -37,3 +37,9 @@ $ curl https://www.google-analytics.com/collect \
 * <https://developers.google.com/analytics/devguides/collection/protocol/v1/reference>
 * <https://developers.google.com/analytics/devguides/collection/protocol/v1/parameters>
 * <https://blog.supermasita.com/2013/03/18/JW_Player-Poor_mans_realtime_analytics.html>
+
+### Alternatives
+It is always worth mentioning that Google Analytics is not the first nor the only analytics tools. Here are three examples that are worth noting, two of which are open source and you can deploy in your network instead of using their SaaS:
+* [Matomo](https://matomo.org/) - Open source
+* [Simple Analitycs](https://simpleanalytics.io/) - Doesn't use cookies
+* [Fathom Analytics](https://usefathom.com/) - Open source
