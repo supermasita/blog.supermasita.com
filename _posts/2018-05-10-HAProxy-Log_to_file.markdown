@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HAPROXY - Log to file"
+title:  "HAProxy - Log to file"
 date:   2018-05-10 07:04:16 -0300
 tags: haproxy rsyslog computers
 ---

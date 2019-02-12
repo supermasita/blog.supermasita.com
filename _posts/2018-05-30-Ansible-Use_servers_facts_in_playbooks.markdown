@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "ANSIBLE - Use server facts in playbooks"
+title:  "Ansible - Use server facts in playbooks"
 date:   2018-05-30 07:04:16 -0300
-tags: ansible  computers
+tags: ansible computers
 ---
 If only I could make my playbook assign half the server's RAM...
 
 You can! Use the server's **[facts](http://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html#information-discovered-from-systems-facts)**.
 
 Example using **ansible_memory_mb.real.total** :
-{% highlight bash_session %}
+```yml
 - hosts: pentaho
   gather_facts: yes
   tasks:
@@ -19,11 +19,10 @@ Example using **ansible_memory_mb.real.total** :
       regexp: '(\s+)JAVAMAXMEM=\"512\"$'
       replace: '\1JAVAMAXMEM="{% raw %}{{ ansible_memory_mb.real.total//2 }}{% endraw %}"'
       backup: yes
-{% endhighlight %}
+```
 
-### Extra tip
-* Get filtered facts
-{% highlight bash_session %}
+#### Extra: get filtered facts
+```
 $ ansible example -m setup -a 'filter=*mem*'
 example.supermasita.com | SUCCESS => {
     "ansible_facts": {
@@ -49,4 +48,4 @@ example.supermasita.com | SUCCESS => {
     }, 
     "changed": false
 }
-{% endhighlight %}
+```

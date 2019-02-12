@@ -4,24 +4,26 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+    </p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
     <br>
-    <span>Tags: 
+    <span> 
       {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><i><nobr>{{ tag_name }}</nobr></i></a>&nbsp;
+	[ <a href="/tag/{{ tag_name }}"><i><nobr>{{ tag_name }}</nobr></i></a> ]
       {% endfor %}
     </span>
 
-</p>
+  </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -32,5 +34,45 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+
+
+<section id="more-work">
+    {% if page.previous %}
+        {% assign previous = page.previous %}
+    {% else %}
+        {% assign previous = site.posts[0] %}
+    {% endif %}
+    <div class="left" style="float: left;">
+        <a class="equalize" href="{{previous.url}}" title="Previous Post: {{previous.title}}">
+            <div>
+                <h6>← Previous</h6>
+                <h4>{{previous.title}}</h4>
+            </div>
+        </a>
+    </div>
+
+    {% if page.next %}
+        {% assign next = page.next %}
+    {% else %}
+        {%comment%}
+           As the array index start at zero we substract 1 to the total count,
+           we then get the last post index in the site.posts array
+        {%endcomment%}
+        {% assign last lastPostIndex = site.posts | size | minus: 1 %}
+        {% assign next = site.posts[lastPostIndex] %}
+    {% endif %}
+    <div class="right" style="float: right; text-align: right;">
+        <a class="equalize" href="{{next.url}}" title="next Post: {{next.title}}">
+            <div>
+                <h6>Next →</h6>
+                <h4>{{next.title}}</h4>
+            </div>
+        </a>
+    </div>
+</section>
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VARNISH - Block HLS for non mobile devices"
+title:  "Varnish - Block HLS for non mobile devices"
 date:   2014-05-01 07:04:16 -0300
 tags: varnish cache proxy wowza streaming  computers
 ---

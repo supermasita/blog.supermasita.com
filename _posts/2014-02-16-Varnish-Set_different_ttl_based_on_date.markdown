@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VARNISH - Set different TTL based on date in URL"
+title:  "Varnish - Set different TTL based on date in URL"
 date:   2014-02-16 07:04:16 -0300
 tags: varnish cache proxy c computers 
 ---

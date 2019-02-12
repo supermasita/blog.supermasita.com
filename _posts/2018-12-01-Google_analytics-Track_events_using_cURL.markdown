@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GOOGLE ANALYTICS - Track events using cURL"
+title:  "Google analytics - Track events using cURL"
 date:   2018-12-01 07:04:16 -0300
 tags: google analytics curl computers 
 ---

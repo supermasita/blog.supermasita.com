@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "ANSIBLE - Update NGINX configuration"
+title:  "Ansible - Update NGINX configuration"
 date:   2018-07-10 07:04:16 -0300
-tags: nginx ansible  computers
+tags: nginx ansible computers
 ---
 Update the configuration and restart only if needed and valid.
 
 Self explanatory playbook:
-{% highlight bash_session %}
+```yml
 - hosts: nginx
   tasks:
   - name: Copy nginx.conf
@@ -26,5 +26,4 @@ Self explanatory playbook:
       name: kaltura-nginx
       state: restarted
     when: nginx_conf is changed
-{% endhighlight %}
-
+```

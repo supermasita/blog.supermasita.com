@@ -11,7 +11,7 @@ You probably been there: try to list a million files and "ls" wants to add colou
 Of course, you can change the alias or "unalias" it - but this is simpler: _just escape the command_.
 
 Simple example:
-```
+```bash
 $ alias | grep ls
 alias l='ls -CF'
 alias la='ls -A'

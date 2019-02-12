@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Simple script to check a URL"
+title:  "BASH - Simple script to check a URL"
 date:   2018-04-27 08:04:16 -0300
 tags: bash ansible linux  computers
 ---
 
 Some of your servers have issues contacting a URL from time to time? We can add a cronjob with a BASH script to keep track of it.
-
-_DISCLAIMER: there are other (probably better) ways to do this_
 
 Lets do two things:
 1. Create the script
@@ -17,7 +15,7 @@ Lets do two things:
 
 #### This is the script, which we will saved as an Ansible template (check_url.sh.j2)
 
-{% highlight bash %}
+```bash
 #!/bin/bash
 # {{ script_dir }} will be a variable in our playbook
 script_path="{{ script_dir }}"
@@ -53,11 +51,11 @@ check_url (){
 # You would then call it from command line:
 # $ bash check_url.sh https://blog.supermasita.com
 check_url "https://blog.supermasita.com"
-{% endhighlight %}
+```
 
 #### Create the playbook (check_url.yml)
 
-{% highlight yml %}
+```yml
 - hosts: servers
   gather_facts: yes
   # vars needed for our template
@@ -100,4 +98,4 @@ check_url "https://blog.supermasita.com"
       name: crond
       state: restarted
     when: ansible_distribution == 'CentOS' or ansible_distribution == 'Red Hat Enterprise Linux'
-{% endhighlight %}
+```

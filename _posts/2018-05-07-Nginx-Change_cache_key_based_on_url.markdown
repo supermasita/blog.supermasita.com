@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NGINX - Change cache key based on URL"
+title:  "Nginx - Change cache key based on URL"
 date:   2018-05-07 07:04:16 -0300
 tags: nginx cache proxy computers
 ---

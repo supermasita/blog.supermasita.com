@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "SPHINX - Query from command line"
+title:  "Sphinx - Query from command line"
 date:   2018-05-09 07:04:16 -0300
 tags: sphinx sql computers
 ---
 If you know your schema, you can just query it MySQL's client.
 
 Example:
-{% highlight mysql %}
+```mysql
 $ mysql -h 127.0.0.1 -P 9312
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 1
@@ -54,4 +54,4 @@ partner_sort_value: 0
  
 ERROR:
 No query specified
-{% endhighlight %}
+```

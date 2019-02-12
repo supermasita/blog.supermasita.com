@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PYTHON - Multiprocessing simple example"
+title:  "Python - Multiprocessing simple example"
 date:   2018-10-01 07:04:16 -0300
 tags: python multiprocessing computers
 ---

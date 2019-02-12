@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "ANSIBLE - Install EPEL using RPM"
+title:  "Ansible - Install EPEL using RPM"
 date:   2018-06-20 07:04:16 -0300
 tags: epel ansible rpm computers
 ---
 Install from RPM - Ansible can do it!
 
 You just need a very simple, two step Ansible playbook, as the one that follows (for RHEL/CentOS 7):
-{% highlight bash_session %}
+```yml
 - hosts: all
   gather_facts: yes
   tasks:
@@ -20,4 +20,4 @@ You just need a very simple, two step Ansible playbook, as the one that follows 
     yum:
       name: epel-release
       state: present
-{% endhighlight %}
+```
