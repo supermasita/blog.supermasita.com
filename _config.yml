@@ -21,13 +21,14 @@ url: "https://blog.supermasita.com" # the base hostname & protocol for your site
 #twitter_username: supermasita
 github_username:  supermasita
 show_excerpts: yes
+rss: yes
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-google_analytics: "UA-111922217-2" 
+#google_analytics: "UA-111922217-2" 
 #disqus:
 # shortname: blog-supermasita
 
