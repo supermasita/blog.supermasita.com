@@ -21,7 +21,6 @@ url: "https://blog.supermasita.com" # the base hostname & protocol for your site
 #twitter_username: supermasita
 github_username:  supermasita
 show_excerpts: yes
-rss: yes
 # Build settings
 markdown: kramdown
 theme: minima
