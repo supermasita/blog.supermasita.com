@@ -31,7 +31,7 @@ Social
 Contact
 ===
 * Freenode: supermasita
-* blog {a] supermasita.com
+* <a href="mailto:burner.b8ee1cc6@tryninja.io">burner.b8ee1cc6@tryninja.io</a>
 
 Credits
 ===
