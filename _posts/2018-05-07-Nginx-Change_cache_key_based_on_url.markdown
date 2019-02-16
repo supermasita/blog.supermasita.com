@@ -10,22 +10,20 @@ This webpage provides MaxMind information: when you request "/" you will see you
 
 To achieve this, you need to change the default "[proxy_cache_key](http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_key)" configuration. This was my approach:
 
-{% highlight bash session %}
+```
+# Default value for all requests
+set $cache_key "$scheme$request_uri";
 
-    # Default value for all requests
-    set $cache_key "$scheme$request_uri";
+# if "/" we change it
+if ($request_uri ~ "^/$"){
+   set $cache_key "$scheme-$remote_addr";
+}
 
-    # if "/" we change it
-    if ($request_uri ~ "^/$"){
-       set $cache_key "$scheme-$remote_addr";
-    }
-    
-    # we change the key using the $cache_key variable
-    proxy_cache_key $cache_key;
-    
-    # add a header for debug
-    add_header X-Cache-Key $cache_key;
+# we change the key using the $cache_key variable
+proxy_cache_key $cache_key;
 
-{% endhighlight %}
+# add a header for debug
+add_header X-Cache-Key $cache_key;
+```
 
 This can be improved, but gave me the cornerstone for my caching needs.

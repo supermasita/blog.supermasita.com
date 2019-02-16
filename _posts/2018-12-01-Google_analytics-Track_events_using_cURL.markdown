@@ -4,12 +4,12 @@ title:  "Google analytics - Track events using cURL"
 date:   2018-12-01 07:04:16 -0300
 tags: google analytics curl computers 
 ---
-You don't need a Javascript or a specific library. Track anything from anywhere.
+You don't need Javascript or even a specific library.
 
 This example uses [cURL](https://curl.haxx.se/) from the terminal, but you can use [Requests](http://docs.python-requests.org/en/master/) in a Python script or anything else that can do a HTTP request. 
 
 As you can see, I use many parameters in POST data (_you can also use GET_):
-```
+```bash
 $ curl https://www.google-analytics.com/collect \
     -d "tid=UA-xxxxxxxxxx-2" \
     -d "t=event" \ 

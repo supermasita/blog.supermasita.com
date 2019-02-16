@@ -6,7 +6,6 @@ permalink: /about/
 
 Hi! I'm _Supermasita_. This blog was created to collect small and simple things that are worth remembering, mainly regarding computers and audio.
 
-
 'Computer' projects
 ===
 * Current:
@@ -16,22 +15,15 @@ Hi! I'm _Supermasita_. This blog was created to collect small and simple things 
   * [Kaltura eCDN Grapher](https://dev.supermasita.com/kaltura/keg): A network grapher for Kaltura's eCDN KES nodes
   * [kStress](https://github.com/supermasita/kstress): An implementation of Locust to stress Kaltura's eCDN
 
-
 Music projects
 ===
 * [ALIAZ](http://aliaz.com.ar) (hard rock)
-
 
 Social
 ===
 * [Docker Hub](https://hub.docker.com/u/supermasita/)
 * [Github](https://github.com/supermasita)
 * [Soundcloud](https://soundcloud.com/supermasita)
-
-Contact
-===
-* Freenode: supermasita
-* <a href="mailto:burner.b8ee1cc6@tryninja.io">burner.b8ee1cc6@tryninja.io</a>
 
 Credits
 ===
