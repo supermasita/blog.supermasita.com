@@ -25,7 +25,10 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-        <hr style="border: 0; border-bottom: 1px solid #EEE; background: #EEE;">
+	{% assign lastPostIndex = site.posts | size | minus: 1 %}
+        {% if post != site.posts[lastPostIndex] %}
+          <hr style="border: 0; border-bottom: 1px solid #EEE; background: #EEE;">
+        {% endif %}
       </li>
       {%- endfor -%}
     </ul>
