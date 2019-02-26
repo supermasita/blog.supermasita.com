@@ -56,12 +56,12 @@ Using GA Realtime
 
 In your GA panel you should see something like this:
 
-![](http://i.imgur.com/DHN8Lsh.png)
-![](http://i.imgur.com/reBlgIk.png)
+![GA screenshot 01](https://blog.supermasita.com/assets/posts_pics/2013-08-16-JW_Player-Poor_mans_realtime_analytics.pic01.png)
+![GA screenshot 02](https://blog.supermasita.com/assets/posts_pics/2013-08-16-JW_Player-Poor_mans_realtime_analytics.pic02.png)
 
 
-Reference
----------
+References
+----------
 
 * <http://www.longtailvideo.com/support/jw-player/28851/javascript-api-reference/>
 * <https://developers.google.com/analytics/devguides/collection/analyticsjs/>

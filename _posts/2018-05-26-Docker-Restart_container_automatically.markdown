@@ -8,13 +8,13 @@ Checkmate! The server has rebooted and all the containers are DOWN.
 
 Its easy to make the containers reboot automatically. Use a **[RestartPolicy](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy)**
 
-* Edit the restart policy for an already running container
+Edit the restart policy for an already running container:
 ```
 $ docker update --restart=always container01
 container01
 ```
 
-* Check the changes 
+Check the changes: 
 ```
 $ docker inspect container01 | grep RestartPolicy -A 3
             "RestartPolicy": {
