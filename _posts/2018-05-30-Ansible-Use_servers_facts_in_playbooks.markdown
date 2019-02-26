@@ -21,7 +21,7 @@ Example using **ansible_memory_mb.real.total** :
       backup: yes
 ```
 
-#### Extra: get filtered facts
+_Bonus_: get filtered facts
 ```
 $ ansible example -m setup -a 'filter=*mem*'
 example.supermasita.com | SUCCESS => {
