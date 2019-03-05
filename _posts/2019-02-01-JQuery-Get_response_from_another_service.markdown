@@ -16,10 +16,10 @@ $(document).ready(function(){
   $("button").click(function(){
     // On click get the URL
     $.get("https://geoip.supermasita.com/api/v1.0/ip/", function(data, status){
-      // Append the result to the DIV name "result"
+      // Add the result to the DIV name "result"
       // Data should be a JSON with '{"registered_contry": {"names": {"en": "XXXX"}}}'
       // No error handling in this example
-      $('#result').append(data.registered_country.names.en);
+      $('#result').ht,;(data.registered_country.names.en);
     });
   });
 });
@@ -41,9 +41,9 @@ $(document).ready(function(){
   $("button").click(function(){
     // On click get the URL
     $.get("https://geoip.supermasita.com/api/v1.0/ip/", function(data, status){
-      // Append the result to the DIV name "result"
+      // Add the result to the DIV name "result"
       // Data should be a JSON with '{"registered_contry": {"names": {"en": "XXXX"}}}'
-      $('#result').append(data.registered_country.names.en);
+      $('#result').html(data.registered_country.names.en);
     });
   });
 });

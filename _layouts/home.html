@@ -10,10 +10,9 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <!--<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>-->
     <h2 class="post-list-heading">{{ page.list_title }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+  {% for post in paginator.posts %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -22,16 +21,36 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-	{% assign lastPostIndex = site.posts | size | minus: 1 %}
-        {% if post != site.posts[lastPostIndex] %}
+        {{ post.excerpt }}
+	{% assign lastPostIndex = paginator.posts | size | minus: 1 %}
+        {% if post != paginator.posts[lastPostIndex] %}
           <hr style="border: 0; border-bottom: 1px solid #EEE; background: #EEE;">
         {% endif %}
       </li>
-      {%- endfor -%}
+  {%- endfor -%}
     </ul>
   {%- endif -%}
+
+<!-- Pagination links -->
+<hr style="border: 0; border-bottom: 1px solid #EEE; background: #EEE;"><br>
+<div class="pagination" style="text-align: center;">
+  [ {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+	    <b>Newer posts</b>
+    </a>
+  {% else %}
+    <span class="previous">Newer posts</span>
+  {% endif %}
+  | 
+  <span class="page_number ">
+   Page: {{ paginator.page }} of {{ paginator.total_pages }} 
+  </span>
+  |
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next"><b>Older posts</b></a>
+  {% else %}
+    <span class="next ">Older posts</span>
+  {% endif %} ]
+</div>
 
 </div>

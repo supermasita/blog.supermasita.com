@@ -29,9 +29,13 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 #google_analytics: "UA-111922217-2" 
 #disqus:
 # shortname: blog-supermasita
+paginate_path: "page:num/"
+paginate: 15
+rss: yes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
