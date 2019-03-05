@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm _Supermasita_. This blog was created to collect small and simple things that are worth remembering, mainly regarding computers and audio.
+Hi! I'm _Supermasita_. This blog was created to collect small and simple things that are worth remembering, mainly regarding computers and audio. 
+
+Want to contact me? Send me an old fashion <a href="mailto:burner.b8ee1cc6@tryninja.io">e-mail</a>.
 
 'Computer' projects
 ===
 * Current:
-  * [geoip.supermasita.com](https://geoip.supermasita.com): A geoip service based on Tornado and Maxmind DB
+  * [geoip.supermasita.com](https://geoip.supermasita.com): A geoip service using Flask and Maxmind DB
   * [wrapmediainfo](https://github.com/supermasita/wrapmediainfo): Simple Mediainfo wrapper (Python)
 * Previous:
   * [Kaltura eCDN Grapher](https://dev.supermasita.com/kaltura/keg): A network grapher for Kaltura's eCDN KES nodes
