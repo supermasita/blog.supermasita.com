@@ -18,10 +18,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ignoring enemies' zones of control since MCMXCIX 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.supermasita.com" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: supermasita
 github_username:  supermasita
-#commentbox: 
-# id: 5717874576457728-proj
 show_excerpts: yes
 # Build settings
 markdown: kramdown
@@ -30,9 +27,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-#google_analytics: "UA-111922217-2" 
-#disqus:
-# shortname: blog-supermasita
 paginate_path: "page:num/"
 paginate: 15
 rss: yes
