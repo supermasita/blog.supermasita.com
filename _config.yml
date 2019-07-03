@@ -30,6 +30,7 @@ plugins:
 paginate_path: "page:num/"
 paginate: 15
 rss: yes
+s3_aliaz: "https://aliaz-public-downloads.s3-eu-west-1.amazonaws.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
