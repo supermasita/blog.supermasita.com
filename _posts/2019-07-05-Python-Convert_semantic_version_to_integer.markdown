@@ -6,7 +6,7 @@ tags: computers coding python
 ---
 How can I search a range of versions? How can I have a integer representing a semantic version?
 
-Looking for a way to convert semantic version to integer, I found and [answer in **Stack Overflow**](https://stackoverflow.com/questions/41516633/how-to-convert-version-number-to-integer-value#41516650), which I think is the correct one... although it was marked as being so. 
+Looking for a way to convert semantic version to integer, I found an [answer in **Stack Overflow**](https://stackoverflow.com/questions/41516633/how-to-convert-version-number-to-integer-value#41516650), which I think is the correct one... although it was not marked as being so. 
 
 Here is shown as a Python function:
 ```python
@@ -21,7 +21,7 @@ def semantic_to_int(version):
     l.reverse()
     # List reversed [13, 1, 5]
     version = sum(x * (100 ** i) for i, x in enumerate(l))
-    # Use 'enumarate' to get a tuple with position/index of the list
+    # Use 'enumerate' to get a tuple with position/index of the list
     # and its value. Multiply position/index by the number: 
     # [13, 100, 50000]
     # Add up all numbers:
