@@ -19,7 +19,7 @@ $(document).ready(function(){
       // Add the result to the DIV name "result"
       // Data should be a JSON with '{"registered_contry": {"names": {"en": "XXXX"}}}'
       // No error handling in this example
-      $('#result').ht,;(data.registered_country.names.en);
+      $('#result').html(data.registered_country.names.en);
     });
   });
 });
