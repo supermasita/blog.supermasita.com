@@ -12,8 +12,8 @@ Super basic - we get the library, create a button that will call the "[JQuery.ge
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script>
 $(document).ready(function(){
-  // Create button with "click" action
-  $("button").click(function(){
+  // Assign the click action to button with ID "get_country_button"
+  $("#get_countrybutton").click(function(){
     // On click get the URL
     $.get("https://geoip.supermasita.com/api/v1.0/ip/", function(data, status){
       // Add the result to the DIV name "result"
@@ -25,7 +25,7 @@ $(document).ready(function(){
 });
 </script>
 <br>
-<button style="background-color: #000; color: #fff;">Click to get your country</button>
+<button id="get_country_button" style="background-color: #000; color: #fff;">Click to get your country</button>
 <br>
 <h1><div id="result" style="background-color: #000; color: #fff;"></div></h1>
 <br>
@@ -37,8 +37,8 @@ You can test it here:
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script>
 $(document).ready(function(){
-  // Create button with "click" action
-  $("button").click(function(){
+  // Assign the click action to button with ID "get_country_button"
+  $("#get_country_button").click(function(){
     // On click get the URL
     $.get("https://geoip.supermasita.com/api/v1.0/ip/", function(data, status){
       // Add the result to the DIV name "result"
@@ -49,7 +49,7 @@ $(document).ready(function(){
 });
 </script>
 <div style="background-color: #CCC; margin: 10px; padding: 10px;">
-<button style="background-color: #000; color: #fff;">Click to get your country</button>
+<button id="get_country_button" style="background-color: #000; color: #fff;">Click to get your country</button>
 <br>
 <h1><div id="result" style="background-color: #000; color: #fff;"></div></h1>
 </div>
