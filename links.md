@@ -4,13 +4,14 @@ title: Links
 permalink: /links/
 ---
 
-This page contains some useful links I've gathered over time and continue to do. (Forever) Work in progress...
+This page contains some useful links I've gathered over time and continue to do. Eternal work in progress...
 
 Privacy
 ===
 * [Privacy Tools](https://www.privacytools.io/)
 * [Cryptostorm VPN](https://www.cryptostorm.is/)
 * [Track This! by Firefox](https://trackthis.link/)
+* [Run your own social](https://runyourown.social/)
 
 Space
 ===
