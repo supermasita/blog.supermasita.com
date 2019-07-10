@@ -17,7 +17,7 @@ This is my solo project. Coming out Q4 2019 :)
 #### "2016" (2016)
 <img src="../assets/music/ALIAZ-2016-2016-150px.jpg"/>
 <br>
-<a href="https://youtu.be/eZ3u72VVFKk" target="_blank">Listen to "2016" full album in Youtube</a>
+<a href="https://youtu.be/eZ3u72VVFKk" target="_blank">"2016" full album in Youtube</a>
 
 1. "Esperando" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2016-2016/ALIAZ-2016-01-Esperando.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2016-2016/ALIAZ-2016-01-Esperando.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2016-2016/ALIAZ-2016-01-Esperando.ogg)
 2. "Dejarte correr" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2016-2016/ALIAZ-2016-02-Dejarte_correr.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2016-2016/ALIAZ-2016-02-Dejarte_correr.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2016-2016/ALIAZ-2016-02-Dejarte_correr.ogg)
@@ -30,7 +30,7 @@ This is my solo project. Coming out Q4 2019 :)
 #### "Volumen 4" (2014)
 <img src="../assets/music/ALIAZ-2014-Volumen_4-150px.jpg"/>
 <br>
-<a href="https://youtu.be/uelI2RFtTQ0" target="_blank">Listen to "Volumen 4" full album in Youtube</a>
+<a href="https://youtu.be/uelI2RFtTQ0" target="_blank">"Volumen 4" full album in Youtube</a>
 
 1. "Tu final" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2014-Volumen_4/ALIAZ-Volumen_4-01-Tu_final.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2014-Volumen_4/ALIAZ-Volumen_4-01-Tu_final.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2014-Volumen_4/ALIAZ-Volumen_4-01-Tu_final.ogg)
 2. "Grita calla" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2014-Volumen_4/ALIAZ-Volumen_4-02-Grita_calla.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2014-Volumen_4/ALIAZ-Volumen_4-02-Grita_calla.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2014-Volumen_4/ALIAZ-Volumen_4-02-Grita_calla.ogg)
@@ -46,7 +46,7 @@ This is my solo project. Coming out Q4 2019 :)
 #### "Mundo irreal" (2007)
 <img src="../assets/music/ALIAZ-2007-Mundo_irreal-150px.jpg"/>
 <br>
-<a href="https://youtu.be/hIUzhmzCFKE" target="_blank">Listen to "Mundo irreal" full album in Youtube</a>
+<a href="https://youtu.be/hIUzhmzCFKE" target="_blank">"Mundo irreal" full album in Youtube</a>
 
 1. "Condenados" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2007-Mundo_irreal/ALIAZ-Mundo_irreal-01-Condenados.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2007-Mundo_irreal/ALIAZ-Mundo_irreal-01-Condenados.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2007-Mundo_irreal/ALIAZ-Mundo_irreal-01-Condenados.ogg)
 2. "Mundo Irreal" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2007-Mundo_irreal/ALIAZ-Mundo_irreal-02-Mundo_irreal.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2007-Mundo_irreal/ALIAZ-Mundo_irreal-02-Mundo_irreal.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2007-Mundo_irreal/ALIAZ-Mundo_irreal-02-Mundo_irreal.ogg)
@@ -60,7 +60,7 @@ This is my solo project. Coming out Q4 2019 :)
 #### "Nada más" (2005)
 <img src="../assets/music/ALIAZ-2005-Nada_mas-150px.jpg"/>
 <br>
-<a href="https://youtu.be/yVaV0IxPmBA" target="_blank">Listen to "Nada más" full album in Youtube</a>
+<a href="https://youtu.be/yVaV0IxPmBA" target="_blank">"Nada más" full album in Youtube</a>
 
 1. "Nada más" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2005-Nada_mas/ALIAZ-Nada_mas-01-Nada_mas.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2005-Nada_mas/ALIAZ-Nada_mas-01-Nada_mas.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2005-Nada_mas/ALIAZ-Nada_mas-01-Nada_mas.ogg)
 2. "Vuela alto" [MP3]({{ site.s3_aliaz }}/albums/ALIAZ-2005-Nada_mas/ALIAZ-Nada_mas-02-Vuela_alto.mp3) [FLAC]({{ site.s3_aliaz }}/albums/ALIAZ-2005-Nada_mas/ALIAZ-Nada_mas-02-Vuela_alto.flac) [OGG]({{ site.s3_aliaz }}/albums/ALIAZ-2005-Nada_mas/ALIAZ-Nada_mas-02-Vuela_alto.ogg)
