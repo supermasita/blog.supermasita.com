@@ -17,7 +17,7 @@ Below you can find the studio records (singles missing ATM), which you can liste
 
 <table>
 <tr>
-<td>
+<td width="25%">
 <p align="center">
 <a href="https://youtu.be/eZ3u72VVFKk" target="_blank">
 "2016" (2016)
@@ -26,7 +26,7 @@ Below you can find the studio records (singles missing ATM), which you can liste
 full album in Youtube</a>
 </p>
 </td>
-<td>
+<td width="25%">
 <p align="center">
 <a href="https://youtu.be/uelI2RFtTQ0" target="_blank">
 "Volumen 4" (2014)
@@ -35,7 +35,7 @@ full album in Youtube</a>
 full album in Youtube</a>
 </p>
 </td>
-<td>
+<td width="25%">
 <p align="center">
 <a href="https://youtu.be/hIUzhmzCFKE" target="_blank">
 "Mundo irreal" (2007)
@@ -44,7 +44,7 @@ full album in Youtube</a>
 full album in Youtube</a>
 </p>
 </td>
-<td>
+<td width="25%">
 <p align="center">
 <a href="https://youtu.be/yVaV0IxPmBA" target="_blank">
 "Nada más" (2005)
