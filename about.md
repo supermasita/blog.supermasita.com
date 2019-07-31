@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm _Supermasita_. This blog was created to collect small and simple things that are worth remembering, mainly regarding computers and audio. 
+This blog was created to collect small and simple things that I want to remember, mainly regarding computers and audio. You could say its a scratchpad. 
 
-Want to contact me? Send me an old fashion <a href="mailto:burner.b8ee1cc6@tryninja.io">e-mail</a>.
+Want to contact me? Send me an old fashion e-mail ( blog _at_ supermasita _dot_ com ).
 
 'Computer' projects
 ===
