@@ -24,7 +24,5 @@
 <script>
    var xhr = new XMLHttpRequest();
    xhr.open("POST", "https://dev.supermasita.com/stats", true);
-   xhr.send(JSON.stringify({
-       url: window.location.href
-   }));
+   xhr.send(String(window.location.href));
 </script>
