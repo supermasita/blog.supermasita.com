@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-This page contains some useful links I've gathered over time and continue to do. Eternal work in progress...
+This page contains some useful links I've gathered over time. Eternal work in progress.
 
 Privacy
 ===
@@ -12,15 +12,7 @@ Privacy
 * [Cryptostorm VPN](https://www.cryptostorm.is/)
 * [Track This! by Firefox](https://trackthis.link/)
 * [Run your own social](https://runyourown.social/)
-
-Space
-===
-* [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
-
-Data samples
-===
-* [Federal Reserve Economic Data, St. Louis Fed](https://fred.stlouisfed.org/)
-* [U.S. Government’s open data](https://catalog.data.gov/dataset) 
+* [Electronic Frontier Foundation](https://www.eff.org/issues/privacy)
 
 Blogs
 ===
@@ -29,9 +21,22 @@ Blogs
 * [Jerry Gamblin](https://jerrygamblin.com/)
 * [Prolixium](https://www.prolixium.com/blog)
 * [D.J. Bernstein](https://cr.yp.to/djb.html)
+* [Jean-Marc Valin](https://jmvalin.dreamwidth.org)
 
-Recording / Music
+Recording / Audio / Music
 ===
 * [Reaper DAW](https://reaper.fm)
 * [Plugin Alliance](https://www.plugin-alliance.com/)
 * [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/)
+* [Xiph](https://www.xiph.org/)
+
+Space
+===
+* [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
+
+Data samples
+===
+* [Federal Reserve Economic Data, St. Louis Fed](https://fred.stlouisfed.org/)
+* [U.S. Government’s open data](https://catalog.data.gov/dataset)
+
+ 
