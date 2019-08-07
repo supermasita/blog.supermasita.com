@@ -2,7 +2,7 @@
 layout: post
 title:  "AWS - Download all objects from a S3 bucket"
 date:   2019-01-21 07:04:16 -0300
-tags: aws s3 python computers 
+tags: aws s3 python computers boto3 
 ---
 Boto's [list_object_v2()](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html#S3.Client.list_objects_v2) is limited to 1000 objects at a time.
 

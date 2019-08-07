@@ -2,7 +2,7 @@
 layout: post
 title:  "AWS - Lambda function to log and alert"
 date:   2019-06-06 07:04:16 -0300
-tags: computers aws python lambda
+tags: computers aws python lambda boto3
 ---
 I ll send you POSTs - you keep track and let me know when something is broken, OK?
 

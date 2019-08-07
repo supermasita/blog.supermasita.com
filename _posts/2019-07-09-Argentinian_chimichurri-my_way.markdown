@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Argentinian chimichurri - my way"
-date:   2019-07-10 07:04:16 -0300
+date:   2019-07-09 07:04:16 -0300
 tags: notcomputers notaudio 
 ---
 Some traditions need to be respected, but some need adjustments.
