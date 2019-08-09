@@ -22,6 +22,6 @@ I'm using [Reaper](https://www.reaper.fm/) in this example, but the same should 
 Before WASAPI appeared (ex: Windows XP), you would probably use [ASIO4ALL](https://en.wikipedia.org/wiki/Audio_Stream_Input/Output) to achieve low latency, if you did not have an audio interface with ASIO. You can achieve the same low latency with WASAPI - no need to install anything.
 
 ### Keep reading
-* <https://en.wikipedia.org/wiki/Technical_features_new_to_Windows_Vista#Audio_stack_architecture>
+* [WASAPI in Wikipedia](https://en.wikipedia.org/wiki/Technical_features_new_to_Windows_Vista#Audio_stack_architecture)
 * <https://www.reaper.fm/>
 * <http://www.asio4all.org/>

@@ -34,8 +34,9 @@ Space
 ===
 * [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 
-Data samples
+Data samples / Charts
 ===
+* [Our world in data](https://ourworldindata.org)
 * [Federal Reserve Economic Data, St. Louis Fed](https://fred.stlouisfed.org/)
 * [U.S. Government’s open data](https://catalog.data.gov/dataset)
 
