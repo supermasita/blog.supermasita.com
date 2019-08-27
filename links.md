@@ -22,6 +22,8 @@ Blogs
 * [Prolixium](https://www.prolixium.com/blog)
 * [D.J. Bernstein](https://cr.yp.to/djb.html)
 * [Jean-Marc Valin](https://jmvalin.dreamwidth.org)
+* [Yadvindher Malhi](http://yadvindhermalhi.org)
+* [Mary Rose Cook](https://maryrosecook.com)
 
 Recording / Audio / Music
 ===

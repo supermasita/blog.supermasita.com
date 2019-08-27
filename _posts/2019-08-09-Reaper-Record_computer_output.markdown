@@ -8,13 +8,16 @@ Use Windows built in [WASAPI](https://en.wikipedia.org/wiki/Technical_features_n
 
 I'm using [Reaper](https://www.reaper.fm/) in this example, but the same should work with any other similar software.
 
-1. In **"Reaper preferences > Audio device settings > Audio system"** , select **"WASAPI (Windows 7/8/10/Vista)"**. For **"Mode"** use **"Shared loopback (CAUTION)"**.
+* In **"Reaper preferences > Audio device settings > Audio system"** , select **"WASAPI (Windows 7/8/10/Vista)"**. For **"Mode"** use **"Shared loopback (CAUTION)"**.
+
 ![](https://blog.supermasita.com/assets/posts_pics/2019-08-09-Reaper-Record_computer_output.pic01.jpg)
 
-2. Create a track as usual. In my case, I'm capturing a stereo output:
+* Create a track as usual. In my case, I'm capturing a stereo output:
+
 ![](https://blog.supermasita.com/assets/posts_pics/2019-08-09-Reaper-Record_computer_output.pic02.jpg)
 
-3. Hit 'record' and start capturing! 
+* Hit 'record' and start capturing! 
+
 ![](https://blog.supermasita.com/assets/posts_pics/2019-08-09-Reaper-Record_computer_output.pic04.jpg)
 
 
