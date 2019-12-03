@@ -4,11 +4,11 @@ title:  "BASH - Avoid command alias"
 date:   2018-08-01 07:04:16 -0300
 tags: linux bash computers
 ---
-Why does "ls" want to colour all my files!?
+Why does `ls` want to colour all my files!?
 
-You probably been there: try to list a million files and "ls" wants to add colour to all of them... or "cp" is set to interactive... 
+You probably been there: try to list a million files and `ls` wants to add colour to all of them... or `cp` is set to interactive... 
 
-Of course, you can change the alias or "unalias" it - but this is simpler: _just escape the command_.
+Of course, you can change the alias or `unalias` it - but this is simpler: _just escape the command_.
 
 Simple example:
 ```bash
