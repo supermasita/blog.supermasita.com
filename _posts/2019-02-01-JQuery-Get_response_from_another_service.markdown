@@ -4,7 +4,7 @@ title:  "JQuery - Get response from another service"
 date:   2019-02-01 07:04:16 -0300
 tags: ajax javascript jquery computers
 ---
-The bread and butter of most sites today.
+The bread and butter of most websites today.
 
 Super basic - we get the library, create a button that will call the "[JQuery.get()](https://api.jquery.com/jQuery.get/)" function and update a DIV the results. See comments in the following code example: 
 ```html

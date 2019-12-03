@@ -41,5 +41,6 @@ Data samples / Charts
 * [Our world in data](https://ourworldindata.org)
 * [Federal Reserve Economic Data, St. Louis Fed](https://fred.stlouisfed.org/)
 * [U.S. Government’s open data](https://catalog.data.gov/dataset)
-
+* [NIH's PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+* [Wikidata](https://www.wikidata.org/)
  
