@@ -31,6 +31,8 @@ Recording / Audio / Music
 * [Plugin Alliance](https://www.plugin-alliance.com/)
 * [Tokyo Dawn Labs](https://www.tokyodawn.net/tokyo-dawn-labs/)
 * [Xiph](https://www.xiph.org/)
+* [XLD: X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) ([beginner's guide](http://wiki.hydrogenaud.io/index.php?title=XLD_Configuration))
+* [Free Audio Encoder](https://www.freac.org/)
 
 Space
 ===
