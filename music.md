@@ -5,84 +5,32 @@ permalink: /music/
 ---
 
 ## Supermasita 
-This is my solo project. Coming out Q4 2019 :)
-<br>
-<br>
+This is my solo project. EP coming out Q2 2020 :)
 
 
 ## [Aliaz](https://www.aliaz.com.ar)
-"Aliaz" is the band I've been singing in since 2005. The current lineup is completed by [Pablo Manlio](https://www.instagram.com/pablomanlio/) (guitar) and [Conejo](https://www.instagram.com/yupisalas/) (bass). 
+"Aliaz" is the band I've been singing in since 2005. The lineup is completed by [Pablo Manlio](https://www.instagram.com/pablomanlio/) (guitar) and [Conejo](https://www.instagram.com/yupisalas/) (bass). 
 
-Below you can find the studio records (singles missing ATM), which you can listen to in Youtube. For downloads (MP3, FLAC, OGG) visit <https://www.aliaz.com.ar>.
+Below you can find the studio records (singles missing ATM), which you can listen (and buy) in Youtube, Amazon, [Apple Music](https://music.apple.com/us/artist/aliaz/1510653729) and [Spotify](https://open.spotify.com/artist/4ftvCK0ocKXOzyLHHQ9DLd). For direct downloads (MP3, FLAC, OGG) visit <https://www.aliaz.com.ar>.
 
-<style>
-    .row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
-    }
-    /* Create four equal columns that sits next to each other */
-    .column {
-    flex: 25%;
-    max-width: 25%;
-    padding: 0 0px;
-    }
-    .column img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 90%;
-    }
-    /* Responsive layout - makes a two column-layout instead of four columns */
-    @media screen and (max-width: 800px) {
-    .column {
-    flex: 50%;
-    max-width: 50%;
-    }
-    }
-    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-    @media screen and (max-width: 600px) {
-    .column {
-    flex: 100%;
-    max-width: 100%;
-    }
-    }
-    </style>
 
-<div class="row">
-<div class="column">
-<p align="center">
-<a href="https://youtu.be/eZ3u72VVFKk" target="_blank">
-"2016" (2016)
-<img src="../assets/music/ALIAZ-2016-2016-150px.jpg"/>
-<br>
-<p align="center" style="font-size:70%;">Listen in Youtube</p></a>
-</p>
-</div>
-<div class="column">
-<p align="center">
-<a href="https://youtu.be/uelI2RFtTQ0" target="_blank">
-"Volumen 4" (2014)
-<img src="../assets/music/ALIAZ-2014-Volumen_4-150px.jpg"/>
-<br>
-<p align="center" style="font-size:70%;">Listen in Youtube</p></a>
-</p>
-</div>
-<div class="column">
-<p align="center">
-<a href="https://youtu.be/hIUzhmzCFKE" target="_blank">
-"Mundo irreal" (2007)
-<img src="../assets/music/ALIAZ-2007-Mundo_irreal-150px.jpg"/>
-<br>
-<p align="center" style="font-size:70%;">Listen in Youtube</p></a>
-</p>
-</div>
-<div class="column">
-<p align="center">
-<a href="https://youtu.be/yVaV0IxPmBA" target="_blank">
-"Nada más" (2005)
-<img src="../assets/music/ALIAZ-2005-Nada_mas-150px.jpg"/>
-<br>
-<p align="center" style="font-size:70%;">Listen in Youtube</p></a>
-</p>
-</div>
-</div>
+#### "2016" (2016)
+![](../assets/music/ALIAZ-2016-2016-544px.jpg)
+
+Listen in [Youtube](https://music.youtube.com/browse/MPREb_1jdE1psnxPy), [Spotify](https://open.spotify.com/album/0ynoDCS5mDNkjHyNEVW4Gq)
+
+#### "Volumen 4" (2014)
+![](../assets/music/ALIAZ-2014-Volumen_4-544px.jpg)
+
+Listen in [Youtube](https://music.youtube.com/browse/MPREb_Bu9ylb7d1iH), [Spotify](https://open.spotify.com/album/6gVlzupQEExHjZcwsFv9sD)
+
+
+#### "Mundo irreal" (2007)
+![](../assets/music/ALIAZ-2007-Mundo_irreal-544px.jpg)
+
+Listen in [Youtube](https://music.youtube.com/browse/MPREb_5ozLMEW8q0D), [Spotify](https://open.spotify.com/album/5CN7a3zWX5TPkk7zkLxyPi)
+
+#### "Nada más" (2005)
+![](../assets/music/ALIAZ-2005-Nada_mas-544px.jpg)
+
+Listen in [Youtube](https://music.youtube.com/browse/MPREb_QkL1ZkH1uvt), [Spotify](https://open.spotify.com/album/0mbhVUg5YEudrYYLPJ8ElJ)
