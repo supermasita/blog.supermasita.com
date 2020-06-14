@@ -16,13 +16,12 @@ Privacy
 
 Blogs
 ===
-* [Larry Sanger Blog](https://larrysanger.org/)
 * [Biased & Inefficient](https://notstatschat.rbind.io/)
 * [Jerry Gamblin](https://jerrygamblin.com/)
 * [Prolixium](https://www.prolixium.com/blog)
 * [D.J. Bernstein](https://cr.yp.to/djb.html)
 * [Jean-Marc Valin](https://jmvalin.dreamwidth.org)
-* [Yadvindher Malhi](http://yadvindhermalhi.org)
+* [Yadvindher Malhi](http://www.yadvindhermalhi.org)
 * [Mary Rose Cook](https://maryrosecook.com)
 
 Recording / Audio / Music
