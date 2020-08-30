@@ -8,7 +8,7 @@ permalink: /music/
 This is my solo project. Only one EP so far, but the idea is to be able to create a few of them a year, with whatever kind of music I feel like making at the time.
 
 #### "Despertaras" (2020)
-![Despertaras album cover](https://blog.supermasita.com/assets/posts_pics/music/SUPERMASITA-2020-Despertaras.jpg)
+![Despertaras album cover](https://blog.supermasita.com/assets/music/SUPERMASITA-2020-Despertaras.jpg)
 * [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l_xD1kaaSOMwJmzdcXbtNrYP4wUGpgQ6Y)
 * [Spotify](https://open.spotify.com/album/3KSWY84DFb67ztZ6RYL2eS)
 * [Google Play](https://play.google.com/store/music/album/Supermasita_Despertaras?id=Bfybxrurqbv6wb4hoi4u56xeqsi)
