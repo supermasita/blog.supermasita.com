@@ -31,29 +31,6 @@ $(document).ready(function(){
 <br>
 ```
 
-You can test it here:
-
-<!-- Get JQuery -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script>
-$(document).ready(function(){
-  // Assign the click action to button with ID "get_country_button"
-  $("#get_country_button").click(function(){
-    // On click get the URL
-    $.get("https://geoip.supermasita.com/api/v1.0/ip/", function(data, status){
-      // Add the result to the DIV name "result"
-      // Data should be a JSON with '{"registered_contry": {"names": {"en": "XXXX"}}}'
-      $('#result').html(data.registered_country.names.en);
-    });
-  });
-});
-</script>
-<div style="background-color: #CCC; margin: 10px; padding: 10px;">
-<button id="get_country_button" style="background-color: #000; color: #fff;">Click to get your country</button>
-<br>
-<h1><div id="result" style="background-color: #000; color: #fff;"></div></h1>
-</div>
-
 Remember that in order to directly request from another domain, it must have correct [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) header configuration.
 
 That's it!

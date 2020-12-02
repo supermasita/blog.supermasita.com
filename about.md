@@ -4,28 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This blog was created to collect small and simple things that I want to remember, mainly regarding computers and audio. You could say its a scratchpad. 
+This blog was created to collect small and simple things that I want to remember, mainly regarding computers and music/audio. 
 
 Want to contact me? Send me an old fashion e-mail ( blog _at_ supermasita _dot_ com ).
 
-'Computer' projects
+Related to me
 ===
-* Current:
-  * [geoip.supermasita.com](https://geoip.supermasita.com): A geoip service using Flask and Maxmind DB
-  * [wrapmediainfo](https://github.com/supermasita/wrapmediainfo): Simple Mediainfo wrapper (Python)
-* Previous:
-  * [Kaltura eCDN Grapher](https://dev.supermasita.com/kaltura/keg): A network grapher for Kaltura's eCDN KES nodes
-  * [kStress](https://github.com/supermasita/kstress): An implementation of Locust to stress Kaltura's eCDN
-
-Music projects
-===
-* [ALIAZ](http://aliaz.com.ar) (hard rock)
-
-Social
-===
+* [Supermasita](https://open.spotify.com/artist/7zCW65GE1YwPDTYk7POovN) (new solo project)
+* [ALIAZ](https://www.aliaz.com.ar) (hard rock band)
+* [Soundcloud](https://soundcloud.com/supermasita)
 * [Docker Hub](https://hub.docker.com/u/supermasita/)
 * [Github](https://github.com/supermasita)
-* [Soundcloud](https://soundcloud.com/supermasita)
 
 Credits
 ===

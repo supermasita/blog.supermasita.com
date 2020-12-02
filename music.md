@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-## Supermasita 
+## [Supermasita](https://open.spotify.com/artist/7zCW65GE1YwPDTYk7POovN) 
 This is my solo project. Only one EP so far, but the idea is to be able to create a few of them a year, with whatever kind of music I feel like making at the time.
 
 #### "Despertaras" (2020)
