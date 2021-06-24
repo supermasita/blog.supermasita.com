@@ -5,7 +5,7 @@ permalink: /music/
 ---
 
 ## [Supermasita](https://open.spotify.com/artist/7zCW65GE1YwPDTYk7POovN) 
-This is my solo project. Only one EP so far, but the idea is to be able to create a few of them a year, with whatever kind of music I feel like making at the time.
+This is my solo project, with only two EPs/Singles so far, but the idea is to be able to create a few of them a year, with whatever kind of music I feel like making at the time.
 
 #### "Mientras espero" (2021)
 ![Mientras espero album cover](https://blog.supermasita.com/assets/music/SUPERMASITA-2021-Mientras_espero.jpg)
