@@ -7,11 +7,17 @@ permalink: /music/
 ## [Supermasita](https://open.spotify.com/artist/7zCW65GE1YwPDTYk7POovN) 
 This is my solo project. Only one EP so far, but the idea is to be able to create a few of them a year, with whatever kind of music I feel like making at the time.
 
+#### "Mientras espero" (2021)
+![Mientras espero album cover](https://blog.supermasita.com/assets/music/SUPERMASITA-2021-Mientras_espero.jpg)
+* [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_moOdYblH8HEtUfGgjuzVEaOfvkQU_9k0w)
+* [Spotify](https://open.spotify.com/album/4PxgBVYDYKiM480gLdKSL7)
+* [Apple Music](https://music.apple.com/us/album/mientras-espero-single/1567691707?uo=4)
+* [More...](https://distrokid.com/hyperfollow/supermasita/mientras-espero)
+
 #### "Despertaras" (2020)
 ![Despertaras album cover](https://blog.supermasita.com/assets/music/SUPERMASITA-2020-Despertaras.jpg)
 * [Youtube](https://music.youtube.com/playlist?list=OLAK5uy_l_xD1kaaSOMwJmzdcXbtNrYP4wUGpgQ6Y)
 * [Spotify](https://open.spotify.com/album/3KSWY84DFb67ztZ6RYL2eS)
-* [Google Play](https://play.google.com/store/music/album/Supermasita_Despertaras?id=Bfybxrurqbv6wb4hoi4u56xeqsi)
 * [Apple Music](https://music.apple.com/us/album/despertaras-single/1528264753?uo=4)
 * [More...](https://distrokid.com/hyperfollow/supermasita/despertaras)
 
